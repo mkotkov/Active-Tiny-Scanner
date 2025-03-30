@@ -1,5 +1,5 @@
 
-# Active
+# Active / TinyScanner
 
 This is a simple port scanner that allows you to check whether a port is open on a given host for TCP or UDP connections.
 
